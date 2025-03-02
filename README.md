@@ -1,5 +1,6 @@
 ### Hi, I'm Laila. 👋
 - 👩🏻‍💻 Trainee Software Developer at TechSwitch
+- 🔜 Career Switcher from Finance to Software Development 
 - 🌱 Currently learning C#
 - 📫 Reach me at lailatariqkhan@gmail.com
 
