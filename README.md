@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Laila. 👋
+- 👩🏻‍💻 Trainee Software Developer at TechSwitch
+- 🌱 Currently learning C#
+- 📫 Reach me at lailatariqkhan@gmail.com
+
+
+
 
 <!--
 **laila-tk/laila-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
